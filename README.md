@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/felipe1590/interactive-rating)
-- Live Site URL: [Add live site URL here](https://felipe1590.github.io/interactive-rating/)
+- Solution URL: (https://github.com/felipe1590/interactive-rating)
+- Live Site URL: (https://felipe1590.github.io/interactive-rating/)
 
 ## My process
 
